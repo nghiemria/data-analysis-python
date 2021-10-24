@@ -156,5 +156,3 @@ plt.plot(new_input, yhat)
 plt.show()
 
 matplotlib.pylab.savefig("D:/3 - Programming/data-analysis-python/model_development/decision making.png")
-
-#done
